@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sina, a passionate Ph.D. researcher and engineer in Artificial Intelligence.
-- 👀 I’m interested in hybrid evolutionary methods in scheduling, meta-heuristics and hyper-heuristics in optimization, reinforcement learning, and machine learning.
+- 👋 Hi, I’m @Sina, a passionate university lecturer and engineer in Artificial Intelligence.
+- 👀 I’m interested in: hybrid evolutionary methods in scheduling, metaheuristics and hyper-heuristics in optimization, reinforcement learning, and machine learning.
 - 🌱 I’m currently working on hybrid meta-heuristic approaches for challenging scheduling problems with real-world applications.
 - 💞️ I’m looking to collaborate on applied research in Optimization and Machine Learning.
 - 📫 How to reach me: https://sites.google.com/view/sina-abdipoor
