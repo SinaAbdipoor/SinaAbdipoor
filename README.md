@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sina, a passionate university lecturer and engineer in Artificial Intelligence.
-- 👀 I’m interested in: hybrid evolutionary methods in scheduling, metaheuristics in optimization, and machine learning.
-- 🌱 I’m currently working on hybrid metaheuristic approaches for challenging scheduling problems with real-world applications.
-- 💞️ I’m looking to collaborate on applied research in Optimization and Machine Learning.
-- 📫 How to reach me: https://sites.google.com/view/sina-abdipoor
+### Hi, I'm Sina
+
+I'm a Lecturer at Sunway University and an AI Engineer. I work in Operations Research, optimization, and metaheuristics, building algorithms that help people make better decisions and save time.
+
+More about me, my research, and my teaching at [sinaabdipoor.github.io](https://sinaabdipoor.github.io).
